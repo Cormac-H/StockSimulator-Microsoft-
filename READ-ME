@@ -1,0 +1,3 @@
+- Tutorial followed on stock simulation
+- Gathers data from Microsoft (NASDAQ)
+- Simulates data based on previous 60 days
